@@ -9,5 +9,5 @@ The plugin have 2 languages:
 -> English
 -> Portuguese
 
-[b]AlliedModders:[/b]
+<b>AlliedModders:</b>
 https://forums.alliedmods.net/showthread.php?t=309598
