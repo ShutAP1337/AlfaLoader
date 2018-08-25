@@ -1,9 +1,9 @@
 # AlfaLoader
 
-Description:
+<b>Description:</b>
 Well, today i will realease a CSGO plugin to load configs that are in the folder configs/configexecutor.cfg or in configexecutor/configs.cfg!
 
-Plugin Info:
+<b>Plugin Info:</b>
 The plugin have 2 languages:
 
 -> English
